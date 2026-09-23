@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Project documentation
+REGISTRATION_COMPLETE_GUIDE.md
+REGISTRATION_GUIDE.md
+REGISTRATION_IMPLEMENTATION.md
+REGISTRATION_INDEX.md
+REGISTRATION_QUICK_REFERENCE.md
+REGISTRATION_VISUAL_FLOWS.md

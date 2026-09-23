@@ -1,0 +1,108 @@
+# ==============================
+# Java / Spring Boot
+# ==============================
+
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# ==============================
+# IDE
+# ==============================
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+.vscode/
+
+# ==============================
+# NetBeans
+# ==============================
+
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+build/
+
+# ==============================
+# React / Vite
+# ==============================
+
+digital-queue-frontend/node_modules/
+digital-queue-frontend/dist/
+digital-queue-frontend/.vite/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+.env.local
+.env.*.local
+digital-queue-frontend/.env
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+
+# ==============================
+# Temporary Documentation
+# ==============================
+
+HELP.md
+
+ADMIN_QUEUE_CONTROL.md
+FRONTEND_COMPONENTS_PROTECTEDROUTE.jsx
+FRONTEND_CONTEXT_AUTH.jsx
+FRONTEND_CONTEXT_WEBSOCKET.jsx
+FRONTEND_HOOKS_USEAUTH.js
+FRONTEND_HOOKS_USEWEBSOCKET.js
+FRONTEND_IMPLEMENTATION_GUIDE.md
+FRONTEND_SERVICES_ADMIN.js
+FRONTEND_SERVICES_API.js
+FRONTEND_SERVICES_AUTH.js
+FRONTEND_SERVICES_QUEUE.js
+FRONTEND_SERVICES_STORAGE.js
+FRONTEND_SERVICES_WEBSOCKET.js
+FRONTEND_SETUP.md
+
+frontend-src-App.jsx
+frontend-src-components-ProtectedRoute.jsx
+frontend-src-context-AuthContext.jsx
+frontend-src-hooks-useAuth.js
+frontend-src-pages-Login.jsx
+frontend-src-services-api.js
+frontend-src-services-authService.js
+frontend-src-utils-storage.js
+
+MYSQL_PASSWORD_SETUP.md
+MYSQL_SETUP.md
+PROJECT_STATUS.md
+REACT_FILES_SUMMARY.md
+REACT_LOGIN_INTEGRATION_GUIDE.md
+REACT_LOGIN_TESTING_CHECKLIST.md
+README_REACT_LOGIN.md
+REGISTRATION_DELIVERY_SUMMARY.md
+SETUP_SUMMARY.md
+WEBSOCKET_GUIDE.md
+
+# ==============================
+# Temporary Setup Scripts
+# ==============================
+
+reset_mysql_password.bat
+setup-react-frontend.bat
+setup-react-frontend.sh
+setup_db.ps1
+setup_mysql.bat
